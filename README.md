@@ -1,15 +1,6 @@
-# cs340
+This project was created for CS240 Client/Server Development at SNHU.
 
-Computer scientists have many roles from IT to software engineering. In this case my work for the client assisted them by creating a tool that will allow them to process information quickly. As a result, they will be able to take on more requests from their own clients. This is the main role of a computer scientist, to create or maintain things that help other businesses succeed
-
-Writing code modularly is a way to keep projects readable and maintainable by simply keeping them easy to understand. If a large project were to keep all of its code in one file it would eventually become so large that maintaining it would turn into a nightmare for any future or even the current developer. By taking the code and breaking it down into classes following naming guidelines current and future developers will be able to maintain the code base as needed without many issues. It is also important to follow commenting guidelines within these files so code can be easily read and understood. As for the project itself I used this for my CRUD module by having the functionality for the server in a separate file. In both my dashboard and CRUD module I followed commenting guidelines and made sure each function had an explanation so that in the future I can come back to it and immediately understand the code I had previously written. CRUD itself is a cornerstone of data storage so I will be using this model to look back on and understand how I need to manipulate data in future projects. 
-
-
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-
-From this experience I would start by first examining what type of database my client is requesting. After gathering the options and having one selected, I would first start on database functions and test them before moving onto the dashboard itself. This is exactly how we did the project in this class, but I do not see a way to complete the project without first making the CRUD module. My approach to this project was different to other classes as we had multiple pieces to the project for it to work, unlike other classes. This class has taught me that working in sections is key to making a successful and working project without getting overwhelmed. 
-
-
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-
-Computer scientists have many roles from IT to software engineering. In this case my work for the client assisted them by creating a tool that will allow them to process information quickly. As a result, they will be able to take on more requests from their own clients. This is the main role of a computer scientist, to create or maintain things that help other businesses succeed
+For this project we were tasked with creating a web application with MongoDB to store and pull data. To do this information from the Austian animal 
+shelter was used. The goal of the project was to display the information from the shelter in an organized and logical manner. Specific tasks were assigned.
+where we designed a way for users to filter the information by animal type and display the selected animal’s location on the map with an included tool tip. 
+CRUD functions were also written by me and utilized to access the database.
